@@ -28,4 +28,4 @@ print(random.sample([1, 2, 3, 4, 5, 6], 3))  # random select N elements from lis
 
 list_number = [1, 2, 3, 4, 5]
 random.shuffle(list_number)
-print("shuffle(list):", list_number)  # random shuffle a list
+print("shuffle(list):", list_number)         # random shuffle a list
